@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
+<!--Start Vanilla -->
     <type name="ACOGOptic">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
@@ -21066,4 +21067,5 @@
         <category name="food"/>
         <usage name="Farm"/>
     </type>
+<!--Ende Vanilla -->
 </types>
